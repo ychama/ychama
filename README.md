@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yazan Chama! <br/><a href="https://github.com/ychama">Software Engineer</a>, <a href="[LinkedInURL]">Electrical Engineer</a></h1>
+<h1>Hi, I'm Yazan Chama! <br/><a href="https://www.linkedin.com/in/yazan-chama/">Software Engineer</a></h1>
 
 
 ## 👋 About Me
@@ -119,6 +119,6 @@ An FPGA-based distance sensing system for parking assistance. Utilizes ultrasoni
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/[YourLinkedInID]
+[linkedin]: https://www.linkedin.com/in/yazan-chama/
 [website]: https://[YourWebsiteURL]
 
