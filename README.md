@@ -23,7 +23,8 @@ Always open to growing my network, I welcome connections from other software eng
 
 **Familiar**: Java, Go, C#.NET, SQL Databases, OpenGL, Unity, Docker/Kubernetes, Cloud, Node.js, Flutter, Mips
 
-<!-- PROJECTS SECTION (EXAMPLE) -->
+---
+
 ## 👨‍💻 Notable Projects
 
 ### 1. Bob Ross Together (Multi-User Drawing Tool)
@@ -31,7 +32,7 @@ Always open to growing my network, I welcome connections from other software eng
 Node.js, MongoDB, Docker, React, Mantine, WebSockets
 
 **Description:**  
-A distributed, real-time drawing application for multiple users. Implemented active replication on Node.js servers, using MongoDB for data consistency. Leveraged Lamport timestamps and totally ordered broadcasts to ensure concurrency control. Deployed a Dockerized proxy layer, and built a responsive front-end in React/Mantine with WebSockets for live collaboration.
+A distributed, real-time drawing app—like a happy little cloud of collaboration (cue Bob Ross). Each brushstroke is kept consistent across Node.js servers, with MongoDB ensuring we don’t “accidentally” replace your masterpiece with someone else’s. Embraces Lamport timestamps to keep the concurrency calm (because who doesn’t love a good total order?), Docker to keep containers from having existential crises, and WebSockets so users can watch each other’s questionable doodles in real time.
 
 **Repository:**  
 - [Bob Ross Together](https://github.com/ychama/Bobross-Together)
@@ -43,7 +44,7 @@ A distributed, real-time drawing application for multiple users. Implemented act
 C++ (Arduino), BLE (Bluetooth Low Energy), Embedded Systems, SparkFun Sensor (SEN-15219), SD Card Logging
 
 **Description:**  
-A modular fitness device based on an Arduino Nano 33 BLE Sense for IMU data collection and BLE connectivity. Integrated a SparkFun SEN-15219 sensor to measure heart rate and SpO2. Logged data onto an SD card and designed a user-friendly interface with a rotary encoder. Emphasizes robust C++ firmware structure and real-time data capture.
+Imagine a Fitbit made in your garage, except more fun to debug. Created with Arduino Nano 33 BLE Sense (someone call Tony Stark), it captures IMU data, heart rate, and SpO2. Because one sensor wasn’t enough, we added a SparkFun SEN-15219 for extra health insights. Logs data to an SD card so your cat pictures can finally have a friend. Rotary encoder included for the old-school dial action. Instant bragging rights guaranteed.
 
 **Repository:**  
 - [Pulse Fitness](https://github.com/ychama/Pulse-Fitness-Device)
@@ -55,7 +56,7 @@ A modular fitness device based on an Arduino Nano 33 BLE Sense for IMU data coll
 Python, TensorFlow/Keras, Conv2D, Stratified K-Fold, Deep Learning
 
 **Description:**  
-A deep-learning-based Automatic Modulation Classification (AMC) pipeline employing convolutional layers, gating logic, and an SNR predictor to dynamically decide “early exits.” Integrated a TAD (Trainable Adaptive Denoiser) for noise reduction. Achieved robust accuracy on RML datasets using Stratified K-Fold evaluation.
+A deep-learning pipeline that could outsmart your average radio waves. It automatically figures out modulation types using convolutional layers (like letting your GPU paint by numbers). With an SNR predictor and TAD (Trainable Adaptive Denoiser) on the side, it gracefully decides when to exit—kind of like an AI that knows when to leave the party before it’s awkward. Robust accuracy on RML datasets, because who doesn’t love graphs trending upward?
 
 **Repository:**  
 - [Adaptive AMC](https://github.com/ychama/Early-Exiting-ML-Research)
@@ -67,7 +68,7 @@ A deep-learning-based Automatic Modulation Classification (AMC) pipeline employi
 Unreal Engine, C++, Q-Learning, Mixamo Animations
 
 **Description:**  
-A 3D third-person fighter game incorporating a simplified state space and a six-action set. Uses Q-Learning to update an agent’s decision-making in real time. Developed in Unreal Engine with Mixamo-based character animations, featuring dynamic camera tracking and real-time Q-table updates.
+A 3D fighter game that pits your Q-learning agent against enemies that definitely aren’t button-mashing. Constructed in Unreal Engine with Mixamo animations, giving it serious flare—even if your AI occasionally roundhouse-kicks thin air. It learns in real time, so either it’ll conquer the game or realize that the best move is simply not to fight. 
 
 **Repository:**  
 - [AI Combat](https://github.com/ychama/AI-Combat)
@@ -80,7 +81,7 @@ A 3D third-person fighter game incorporating a simplified state space and a six-
 C++17, OpenGL, Phong Shading, Texture Mapping
 
 **Description:**  
-A 3D simulation of an Earth-Moon system, exaggerated for educational clarity. Implements real-time lighting and interactive camera controls, including mouse-look, zoom, pause/resume, and adjustable speed. Utilizes Phong Shading and texture mapping for realistic visuals.
+Ever wanted to shrink the solar system into a bite-sized OpenGL project? We did that. Earth and Moon spin happily under Phong Shading with interactive camera controls. Includes that oh-so-satisfying “pause” button if you need to do some cosmic debugging. Texture mapping ensures that our little world looks good—even if it’s scientifically questionable.
 
 **Repository:**  
 - [Solar System Simulation](https://github.com/ychama/Computer_Graphics_Projects/tree/master/Solar%20System%20Simulation)
@@ -90,7 +91,7 @@ A 3D simulation of an Earth-Moon system, exaggerated for educational clarity. Im
 C++17, OpenGL, De Casteljau Algorithm, Bézier & B-Spline
 
 **Description:**  
-A real-time application featuring advanced curve manipulation. Implements De Casteljau’s algorithm for Bézier curves and integrates B-Spline curve computations. Includes visualization for surfaces of revolution and tensor product surfaces, with an interactive UI for adjusting control points.
+A real-time curve sculpting playground that pays homage to the math wizards of computer graphics. We took De Casteljau’s algorithm and B-Spline computations, threw them into a blender with OpenGL, and out popped mesmerizing curves. Perfect for those nights you can’t decide whether to code or become an artist.
 
 **Repository:**  
 - [Curve Editor](https://github.com/ychama/Computer_Graphics_Projects/tree/master/Curve_Editor)
@@ -102,14 +103,12 @@ A real-time application featuring advanced curve manipulation. Implements De Cas
 FPGA (DE10-Lite), VHDL, ADC Data Capture, PWM
 
 **Description:**  
-An FPGA-based distance sensing system for parking assistance. Utilizes ultrasonic input, processed by modules for ADC data capture, binary-to-BCD conversion, and PWM signal generation. Designed in VHDL with downcounters for precise timing. Verified accuracy through simulation and on-board testing.
+Because apparently parallel parking is too “basic,” we built an FPGA-based sensor to do the heavy lifting. Uses ultrasonic input and processes it via VHDL modules, so your bumper remains unscathed. Binary-to-BCD conversions ensure digits don’t throw a tantrum on the display, and the PWM modules keep a steady beat. Say goodbye to embarrassing scrapes—hello to FPGA wizardry.
 
 **Repository:**  
 - [Precision Parking](https://github.com/ychama/Parking-Sensor)
 
-
-
-
+---
 
 <!-- CONNECT WITH ME SECTION -->
 ## 🤳 Connect with Me
