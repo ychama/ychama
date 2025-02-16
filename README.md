@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yazan Chama! <br/><a href="https://github.com/ychama">Software Engineer</a>, <a href="[LinkedInURL]">[Other Role/Title]</a></h1>
+<h1>Hi, I'm Yazan Chama! <br/><a href="https://github.com/ychama">Software Engineer</a>, <a href="[LinkedInURL]">Electrical Engineer</a></h1>
 
 
 ## 👋 About Me
