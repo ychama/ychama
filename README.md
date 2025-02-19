@@ -108,6 +108,17 @@ Because apparently parallel parking is too “basic,” we built an FPGA-based s
 **Repository:**  
 - [Precision Parking](https://github.com/ychama/Parking-Sensor)
 
+
+### 7. OS & Resource Management (Operating System Projects)
+**Languages & Technologies:**  
+C++, Multi-threading (pthreads), Atomic Operations, Round-Robin Scheduling, Best-Fit Memory Allocation, BFS/DFS  
+
+**Description:**  
+Because sometimes you just can’t trust your CPU scheduler to behave. Here’s a **Round-Robin CPU Scheduling** simulator that keeps processes from staging a revolution, a **Best-Fit** partition memory manager so your heap doesn’t collapse into chaos, a **FAT Table** exploration via BFS/DFS (now with 100% more graph traversal), and a **Multi-Threaded Factor-Sum** program for all those times you need to factor huge numbers in parallel—because why wait around for a single thread to do the job? Using atomic operations, pthreads, and a dash of OS-wizardry, it’s the perfect playground for load balancing, race condition avoidance, and ensuring no stray process hogs the CPU.  
+
+**Repository:**  
+- [Operating System Projects](https://github.com/ychama/Operating-System-Projects)
+
 ---
 
 <!-- CONNECT WITH ME SECTION -->
