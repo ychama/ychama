@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yazan Chama! <br/><a href="https://www.linkedin.com/in/yazan-chama/">Software Engineer</a></h1>
+<h1>Hi, I'm Yazan! <br/><a href="https://www.linkedin.com/in/yazan-chama/">Software Engineer</a></h1>
 
 
 ## 👋 About Me
